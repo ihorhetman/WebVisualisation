@@ -1,1 +1,1 @@
-# WebVisualisation of Tweets connected with American airlines
+# Web Visualization of Tweets connected with American airlines
